@@ -1,30 +1,19 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I am currently a PhD  candidate (2015 -- Present) at [Rythm]("https://dreem.com/"") and in [Image, Data Signal Department]("http://www.tsi.telecom-paristech.fr/en/") at [Télécom ParisTech]("http://www.tsi.telecom-paristech.fr/en/"). I am supervised by [Alexandre Gramfort]("http://alexandre.gramfort.net/") and co-advised by [Mathieu Galtier]("https://www.linkedin.com/in/mgaltier/?ppe=1) and [Gilles Wainrib]("https://www.linkedin.com/in/gilles-wainrib-028a622/")
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+My work mainly focuses on processing EEG signals with deep learning algorithms and covers different aspects of machine learning such as transfer learning in general and domain adaptation.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
 
-## Setup
 
-Some fun facts about the setup of this project include:
+I graduated from [TUM]("https://www.tum.de/en/homepage/") (2014-2016) and from [École Polytechnique]("https://www.polytechnique.edu/en") (2011-2014) were I developped a strong interest in mathematics and machine learning in particular.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
-Thanks for reading!
+
