@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-You can find a detailed version of my CV <a href="https://drive.google.com/uc?export=download&id=0B3Cth76Gm7pOT1Y3Yk5uQzRCbTg" download="cv_chambon_stanislas">here</a>
+You can find a detailed version of my CV <a href="https://drive.google.com/uc?export=download&id=0B3Cth76Gm7pOWXJfRGQ3N1pPcTg" download="cv_chambon_stanislas">here</a>
 
 
 
@@ -23,6 +23,7 @@ You can find a detailed version of my CV <a href="https://drive.google.com/uc?ex
 	- Neuroscience internship on vision (retina)
 	- Design of an non linear regressor applied to retinal spike trains decoding
 
+<br><br>
 
 ### Education Background
 -----------------------
@@ -31,14 +32,16 @@ You can find a detailed version of my CV <a href="https://drive.google.com/uc?ex
 - **Master of Science "Operation research in mathematics" at [TUM]("https://www.tum.de/en/homepage/")** 2014 -- 2016
 - **Engineer degree from [École Polytechnique]("https://www.polytechnique.edu/en")** 2011 -- 2014
 
+<br><br>
+
 ### Proficiencies
 ----------------
 
-#### General skills
+##### General skills
 - Languages: English, German, Spanish
 - Programming languages: Python, Matlab
 - Computer science: Latex, Bash, GitHub
 
-#### Machine learning skills
+##### Machine learning skills
 - General: scikit-learn, numpy, pandas, ...
 - Deep learning: Keras, Tensorflow, Theano, Pytorch
