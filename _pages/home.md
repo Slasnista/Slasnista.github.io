@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: single
 title: About
-permalink: /about/
+permalink: /
 ---
 
 I am currently a PhD  candidate (2015 -- Present) at [Dreem](https://dreem.com/en/) and in [Image, Data Signal Department](http://www.tsi.telecom-paristech.fr/en/) at [Télécom ParisTech](http://www.tsi.telecom-paristech.fr/en/). I am supervised by [Alexandre Gramfort](http://alexandre.gramfort.net/) and co-advised by [Mathieu Galtier](https://www.linkedin.com/in/mgaltier/?ppe=1) and [Gilles Wainrib](https://www.linkedin.com/in/gilles-wainrib-028a622/)
