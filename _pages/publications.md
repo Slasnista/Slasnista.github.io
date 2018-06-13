@@ -10,4 +10,4 @@ permalink: /publications/
 
 2. **Domain adaptation with optimal transport improves EEG sleep stage classifiers** S. Chambon, M. N. Galtier and A. Gramfort. Pattern Recognition in Neuroimaging (PRNI) 2018.
 
-	[[preprint available soon]]()
+	[[preprint]](https://hal.archives-ouvertes.fr/hal-01814190)
