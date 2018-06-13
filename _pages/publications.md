@@ -4,8 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
-1. **A deep learning architecture for temporal sleep stage classification using multivariate and multimodal time series** Stanislas Chambon, Mathieu N. Galtier, Pierrick J. Arnal, Gilles Wainrib, and Alexandre Gramfort. preprint arXiv:1707.03321, 2017:
+1. **A deep learning architecture for temporal sleep stage classification using multivariate and multimodal time series** S. Chambon, M. N. Galtier, P. J. Arnal, G. Wainrib and A. Gramfort. IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 26, no. 4, pp. 758-769, April 2018.
 
-	- **accepted** at [IEEE Transactions on Neural Systems and Rehabilitation Engineering](http://ieeexplore.ieee.org/document/8307462/)
+	[[paper]](http://ieeexplore.ieee.org/document/8307462/) [[prepring]](https://arxiv.org/abs/1707.03321) [[code available soon]]()
 
-	- **preprint available** on [arxiv](https://arxiv.org/abs/1707.03321)
+2. **Domain adaptation with optimal transport improves EEG sleep stage classifiers** S. Chambon, M. N. Galtier and A. Gramfort. Pattern Recognition in Neuroimaging (PRNI) 2018.
+
+	[[preprint available soon]]()

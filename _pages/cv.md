@@ -6,9 +6,12 @@ permalink: /cv/
 
 You can find a detailed version of my CV <a href="https://drive.google.com/uc?export=download&id=0B3Cth76Gm7pOWXJfRGQ3N1pPcTg" download="cv_chambon_stanislas">here</a>
 
-
 ### Employment History
 ---------------------
+
+- **Visiting Researcher Student**, [Stanford](https://www.stanford.edu/) 2018
+	- main subject: "Event detection in PSG data with deep learning"
+	- supervisor: [Emmanuel Mignot](http://med.stanford.edu/narcolepsy/mignot.html)
 
 - **PhD candidate in machine learning** 2015 -- Present
 	- In parnership with [Dreem](https://dreem.com/) and [Télécom ParisTech](http://www.tsi.telecom-paristech.fr/en/)
