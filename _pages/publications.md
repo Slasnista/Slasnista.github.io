@@ -14,3 +14,4 @@ permalink: /publications/
 
 3. **A Deep Learning Architecture To Detect Events In EEG Signals During Sleep** S. Chambon, V. Thorey, P. J. Arnal, E. Mignot and A. Gramfort. To appear in proc IEEE International Workshop on Machine Learning for Signal Processing 2018
 
+	[[preprint]](https://arxiv.org/abs/1807.05981)
