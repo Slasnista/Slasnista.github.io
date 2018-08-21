@@ -10,7 +10,7 @@ permalink: /publications/
 
 2. **Domain adaptation with optimal transport improves EEG sleep stage classifiers** S. Chambon, M. N. Galtier and A. Gramfort. Pattern Recognition in Neuroimaging (PRNI) 2018.
 
-	[[preprint]](https://hal.archives-ouvertes.fr/hal-01814190)
+	[[paper]](https://ieeexplore.ieee.org/document/8423957/) [[preprint]](https://hal.archives-ouvertes.fr/hal-01814190)
 
 3. **A Deep Learning Architecture To Detect Events In EEG Signals During Sleep** S. Chambon, V. Thorey, P. J. Arnal, E. Mignot and A. Gramfort. To appear in proc IEEE International Workshop on Machine Learning for Signal Processing 2018
 
