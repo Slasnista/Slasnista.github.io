@@ -13,7 +13,7 @@ locale                   : "en-US"
 title                    : Stanislas Chambon
 title_separator          : "-"
 name                     : Stanislas Chambon
-description              : PhD Candidate in Machine Learning
+description              : Datascientist at Therapixel
 url                      : https://slasnista.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -92,9 +92,9 @@ analytics:
 # Site Author
 author:
   name             : "Stanislas Chambon"
-  avatar           : /images/avatar.JPG # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : PhD candindate in machine learning applied to EEG data
-  location         : "Paris"
+  avatar           : /images/avatar.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : Datascientist at Therapixel
+  location         : "Paris / Nantes"
   email            : stan.chambon@gmail.com
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
